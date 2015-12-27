@@ -10,6 +10,7 @@
 
         <activity android:name=".onedrivetest" >
         </activity>
+        <activity android:name=".dropbox.DropboxAuth"></activity>
 
     </application>
 

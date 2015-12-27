@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">cloudConnect</string>
+
+    <string name="getMusicInfoProgressMessage">全ミュージック情報取得中...</string>
+
+    <string name="getId3TagTitle">メタデータ取得中...</string>
+    <string name="getId3TagMessage">初回の取得には数分かかることがあります</string>
+
+    <string name="uploadProgressTitle">処理中...</string>
+    <string name="uploadProgressMessage">アップロードが完了するまでしばらくお待ちください</string>
 </resources>
